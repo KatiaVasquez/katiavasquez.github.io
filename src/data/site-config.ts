@@ -40,25 +40,33 @@ export type SiteConfig = {
 
 const siteConfig: SiteConfig = {
     website: 'https://katiavasquez.github.io',
-    title: 'Katia',
-    subtitle: 'Minimal Astro.js theme',
-    description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
+    title: 'Katia Vasquez',
+    subtitle: 'QA Manual & Jr Automation',
+    description: 'QA Engineer Jr con experiencia en pruebas manuales, API y mobile. Especializada en asegurar la calidad de aplicaciones web y móviles.',
     image: {
         src: '/dante-preview.jpg',
-        alt: 'Dante - Astro.js and Tailwind CSS theme'
+        alt: 'Katia Vasquez - QA Engineer'
     },
     headerNavLinks: [
         {
-            text: 'Home',
+            text: 'Inicio',
             href: '/'
         },
         {
-            text: 'Projects',
+            text: 'Sobre Mí',
+            href: '/about'
+        },
+        {
+            text: 'Proyectos QA',
             href: '/projects'
         },
         {
-            text: 'Blog',
-            href: '/blog'
+            text: 'Certificados',
+            href: '/certificates'
+        },
+        {
+            text: 'Contacto',
+            href: '/contact'
         },
         {
             text: 'Tags',
@@ -67,54 +75,58 @@ const siteConfig: SiteConfig = {
     ],
     footerNavLinks: [
         {
-            text: 'About',
-            href: '/about'
+            text: 'LinkedIn',
+            href: 'https://www.linkedin.com/in/katia-v%C3%A1squez-653b28185/'
         },
         {
-            text: 'Contact',
-            href: '/contact'
+            text: 'GitHub',
+            href: 'https://github.com/KatiaVasquez'
         },
         {
-            text: 'Terms',
-            href: '/terms'
-        },
-        {
-            text: 'Download theme',
-            href: 'https://github.com/JustGoodUI/dante-astro-theme'
+            text: 'Email',
+            href: 'mailto:katiayvasquezm@gmail.com'
         }
     ],
     socialLinks: [
         {
-            text: 'Dribbble',
-            href: 'https://dribbble.com/'
+            text: 'LinkedIn',
+            href: 'https://www.linkedin.com/in/katia-v%C3%A1squez-653b28185/'
         },
         {
-            text: 'Instagram',
-            href: 'https://instagram.com/'
+            text: 'GitHub',
+            href: 'https://github.com/KatiaVasquez'
         },
         {
-            text: 'X/Twitter',
-            href: 'https://twitter.com/'
+            text: 'Email',
+            href: 'mailto:katiayvasquezm@gmail.com'
         }
     ],
     hero: {
-        title: 'Hi There & Welcome to My Corner of the Web!',
-        text: "I'm **Ethan Donovan**, a web developer at Amazing Studio, dedicated to the realms of collaboration and artificial intelligence. My approach involves embracing intuition, conducting just enough research, and leveraging aesthetics as a catalyst for exceptional products. I have a profound appreciation for top-notch software, visual design, and the principles of product-led growth. Feel free to explore some of my coding endeavors on <a href='https://github.com/JustGoodUI/dante-astro-theme'>GitHub</a> or follow me on <a href='https://twitter.com/justgoodui'>Twitter/X</a>.",
+        title: 'Katia Vasquez | QA Manual & Jr Automation',
+        text: "Soy **QA Engineer Jr** con experiencia en pruebas manuales, API y mobile. Me apasiona asegurar la calidad de aplicaciones web y móviles, aportando una visión de negocio clara y enfoque en el usuario final.",
         image: {
             src: '/hero.jpeg',
-            alt: 'A person sitting at a desk in front of a computer'
+            alt: 'Katia Vasquez - QA Engineer'
         },
         actions: [
             {
-                text: 'Get in Touch',
-                href: '/contact'
+                text: 'Ver Proyectos',
+                href: '/projects'
+            },
+            {
+                text: 'Sobre Mí',
+                href: '/about'
+            },
+            {
+                text: 'Contactar',
+                href: 'mailto:katiayvasquezm@gmail.com'
             }
         ]
     },
     subscribe: {
-        title: 'Subscribe to Dante Newsletter',
-        text: 'One update per week. All the latest posts directly in your inbox.',
-        formUrl: '#'
+        title: 'Disponible para proyectos QA',
+        text: 'Estoy abierta a colaborar en proyectos de QA que busquen asegurar calidad y valor para los usuarios.',
+        formUrl: 'mailto:katiayvasquezm@gmail.com'
     },
     postsPerPage: 8,
     projectsPerPage: 8
