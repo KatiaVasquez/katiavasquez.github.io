@@ -1,14 +1,37 @@
 ---
-title: Get in touch
+title: Contacto
 seo:
-  title: Contact
-  description: Get in touch through email or social media! Let me know how I can help.
+  title: Contacto - Katia Vasquez QA
+  description: ¡Ponte en contacto conmigo! Estoy disponible para proyectos de QA y oportunidades de colaboración.
 ---
 
-Thank you for reaching out! Whether you have a question, a suggestion, or just want to share your thoughts, I'm all ears. Feel free to get in touch through any of the methods below:
+## 📧 ¡Hablemos!
 
-_Email:_
-Feel free to drop me an email at [example@example.com](mailto:example@example.com), and I'll do my best to respond as soon as possible.
+Gracias por contactarme. Ya sea que tengas una pregunta, una propuesta de proyecto o simplemente quieras compartir tus ideas, estoy aquí para escucharte. No dudes en ponerte en contacto por cualquiera de los siguientes medios:
 
-_Social Media:_
-Connect with me on social media as well. Find me on [Twitter](https://twitter.com) or [LinkedIn](https://www.linkedin.com/).
+### 📩 Email
+Puedes escribirme directamente a [katiayvasquezm@gmail.com](mailto:katiayvasquezm@gmail.com) y haré lo posible por responderte lo antes posible.
+
+### 💼 LinkedIn
+Conéctate conmigo profesionalmente en [LinkedIn](https://www.linkedin.com/in/katia-v%C3%A1squez-653b28185/). Me encantaría conocer tu trabajo y explorar oportunidades de colaboración.
+
+### 👩‍💻 GitHub
+Revisa mis proyectos de QA y contribuciones en [GitHub](https://github.com/KatiaVasquez). Siempre estoy trabajando en nuevos proyectos de testing y automatización.
+
+---
+
+## 🎯 ¿En qué puedo ayudarte?
+
+- **Proyectos de QA Manual** - Testing funcional, usabilidad, regresión
+- **Testing de APIs** - Validación de endpoints con Postman
+- **Testing Mobile** - Pruebas en aplicaciones Android
+- **Automatización básica** - Scripts con Selenium y Python
+- **Colaboración en equipos QA** - Aprendizaje y crecimiento mutuo
+
+**Tiempo de respuesta:** Normalmente respondo en menos de 24 horas.
+
+---
+
+✨ **Estoy emocionada por conocer nuevos proyectos y oportunidades donde pueda aportar mis habilidades de QA mientras continúo aprendiendo y creciendo profesionalmente.**
+
+[📧 Enviar email](mailto:katiayvasquezm@gmail.com){.btn .btn-primary}
