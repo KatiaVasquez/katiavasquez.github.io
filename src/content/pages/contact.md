@@ -34,4 +34,4 @@ Revisa mis proyectos de QA y contribuciones en [GitHub](https://github.com/Katia
 
 ✨ **Estoy emocionada por conocer nuevos proyectos y oportunidades donde pueda aportar mis habilidades de QA mientras continúo aprendiendo y creciendo profesionalmente.**
 
-[📧 Enviar email](mailto:katiayvasquezm@gmail.com){.btn .btn-primary}
+[📧 Enviar email](mailto:katiayvasquezm@gmail.com)

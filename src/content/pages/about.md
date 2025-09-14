@@ -52,4 +52,4 @@ Me caracterizo por:
 
 ✨ **Estoy abierta a colaborar en proyectos de QA, aportando mis habilidades y desarrollándome como profesional en el área de calidad de software.**  
 
-[📩 Contactarme](mailto:katiayvasquezm@gmail.com){.btn .btn-primary}
+[📩 Contactarme](mailto:katiayvasquezm@gmail.com)
