@@ -1,61 +1,61 @@
 ---
-title: 'NeuralPlaylist - AI Generated Music Recommendations'
-description: Leveraging advanced algorithms and machine learning, NeuralPlaylist crafts personalized music recommendations based on users' preferences, moods, and even biometric data.
-publishDate: 'Oct 19 2023'
+title: 'Proyecto Final: App de Delivery (Web + Móvil)'
+description: Proyecto integrador del Bootcamp QA, aplicando pruebas manuales y de API en una aplicación de delivery tanto en su versión web como móvil.
+publishDate: '2025'
 seo:
   image:
-    src: '/project-4.jpg'
+    src: '/project-4.png'
+    alt: Captura de pruebas en app de delivery
 ---
 
-![Project preview](/project-4.jpg)
+![Proyecto Final - App de Delivery](/project-4.png)
 
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+**Project Overview:**  
+El proyecto final del Bootcamp consistió en probar una **aplicación de delivery** en sus versiones **web y móvil**.  
+El objetivo fue aplicar de manera integrada los conocimientos adquiridos en el programa: **testing manual, pruebas de API y reporte de bugs**, siguiendo un flujo de QA similar al de un entorno real.  
 
-**Project Overview:**
-NeuralPlaylist is a cutting-edge web application that redefines music discovery through the power of artificial intelligence. Leveraging advanced algorithms and machine learning, NeuralPlaylist crafts personalized music recommendations based on users' preferences, moods, and even biometric data.
+---
 
-## Objectives
+## 🎯 Objectives
 
-1. Develop an intuitive and user-friendly web application that utilizes AI to curate personalized music playlists for users.
-2. Implement machine learning models that analyze user behavior, preferences, and physiological responses to create dynamic and context-aware music recommendations.
-3. Provide an immersive and interactive platform that enhances the music listening experience and introduces users to new genres and artists.
+1. Ejecutar pruebas manuales en la versión web y móvil de la app.  
+2. Validar los endpoints REST de la API con **Postman**.  
+3. Documentar y reportar bugs en **Jira** con detalle y evidencias.  
+4. Evaluar la usabilidad y consistencia entre las plataformas web y móvil.  
 
-## Features
+---
 
-1. **Biometric Mood Analysis:**
+## ⚙️ Features
 
-- NeuralPlaylist incorporates biometric data analysis to understand users' moods and emotional states.
-- The AI algorithms use facial recognition and heart rate data to curate playlists that match users' current emotional states.
+1. **Pruebas Manuales:**  
+   - Validación de flujos principales: registro, login, búsqueda de productos, carrito de compras y órdenes.  
+   - Revisión de mensajes de error y confirmación.  
 
-2. **Personalized Playlists:**
+2. **Pruebas de API con Postman:**  
+   - Validación de endpoints para login, productos y órdenes.  
+   - Verificación de status codes y respuestas JSON.  
 
-- Users receive dynamic and highly personalized playlists based on their music history, preferences, and contextual factors.
-- NeuralPlaylist adapts to users' evolving tastes, introducing them to new genres and artists that align with their musical journey.
+3. **Testing en App Móvil:**  
+   - Ejecución de pruebas en emulador de **Android Studio**.  
+   - Revisión de usabilidad y consistencia en la navegación.  
 
-3. **Context-Aware Recommendations:**
+4. **Gestión de Bugs:**  
+   - Reporte de errores en **Jira** con pasos de reproducción y capturas.  
 
-- The application takes into account contextual factors such as time of day, weather, and location to tailor music recommendations.
-- Users receive playlists suited for specific occasions, moods, and environments.
+---
 
-4. **Collaborative Playlists:**
+## 🛠️ Technology Stack
 
-- NeuralPlaylist encourages social interaction by allowing users to create and share collaborative playlists with friends.
-- Friends can contribute to the playlist, creating a shared musical experience that adapts to the collective preferences of the group.
+- **Postman** – Pruebas de endpoints REST.  
+- **Android Studio** – Pruebas en app móvil.  
+- **Jira** – Gestión y documentación de bugs.  
+- **Web App (Browser)** – Pruebas funcionales en la versión web.  
 
-5. **Real-Time Feedback Integration:**
+---
 
-- Users can provide real-time feedback on song selections, allowing the AI to continuously refine recommendations.
-- The system learns from user interactions to enhance the accuracy of future music suggestions.
+## 📌 Outcome
 
-## Technology Stack
+Este proyecto integrador consolidó mis conocimientos en QA, permitiéndome aplicar **pruebas manuales y de API** en un mismo producto.  
+Logré identificar bugs en flujos críticos, practicar la documentación en Jira y comprender la importancia de validar tanto la **experiencia de usuario** como la **correcta comunicación entre frontend y backend**.  
 
-- Frontend: Vue.js for a dynamic and responsive user interface.
-- Backend: Flask for handling server-side logic and API integration.
-- Database: MongoDB for efficient storage and retrieval of user and music data.
-- AI Integration: PyTorch for developing machine learning models for music recommendation and biometric analysis.
-
-## Outcome
-
-NeuralPlaylist has redefined the music listening experience by harnessing the power of AI to provide users with hyper-personalized and context-aware playlists. The application not only adapts to users' musical preferences but also introduces them to new and exciting musical journeys based on their emotions and surroundings.
-
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+---
