@@ -43,7 +43,10 @@ const siteConfig: SiteConfig = {
     title: 'Katia Vasquez',
     subtitle: 'QA Manual & Jr Automation',
     description: 'QA Engineer Jr con experiencia en pruebas manuales, API y mobile. Especializada en asegurar la calidad de aplicaciones web y móviles.',
-
+    image: {
+        src: '/dante-preview.jpg',
+        alt: 'Katia Vasquez - QA Engineer'
+    },
     headerNavLinks: [
         {
             text: 'Inicio',
@@ -105,10 +108,7 @@ const siteConfig: SiteConfig = {
     hero: {
         title: 'Katia Vasquez | QA Manual & Jr Automation',
         text: "Soy **QA Engineer Jr** con experiencia en pruebas manuales, API y mobile. Me apasiona asegurar la calidad de aplicaciones web y móviles, aportando una visión de negocio clara y enfoque en el usuario final.",
-        image: {
-            src: '/hero.jpeg',
-            alt: 'Katia Vasquez - QA Engineer'
-        },
+
         actions: [
             {
                 text: 'Ver Proyectos',
